@@ -10,6 +10,14 @@
 
 ###
 
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">Hello, my name is Álvaro Masanori Sato and I have a degree in Computer Science at UNESP - Presidente Prudente (2023). Currently working at the company Logicalis in the company's tools area.<br>✨ Creating bugs since 2018<br>🎲 Fun fact: I try to do everything as simply as possible<br>🎮 Hobby: Play Games (FPS, ARPG), Dance</p>
+
+###
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/AlvaroSato-Logicalis/AlvaroSato-Logicalis/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/AlvaroSato-Logicalis/AlvaroSato-Logicalis/languages-output/languages.svg" height="150" alt="languages graph"  />
@@ -67,6 +75,7 @@
 
 ###
 
+<<<<<<< HEAD
 <div align="left">
 </div>
 
@@ -75,5 +84,12 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/AlvaroSato-Logicalis/AlvaroSato-Logicalis/snake-output/snake.svg" alt="Snake animation" />
+=======
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlvaroSato-Logicalis/AlvaroSato-Logicalis/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlvaroSato-Logicalis/AlvaroSato-Logicalis/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AlvaroSato-Logicalis/AlvaroSato-Logicalis/pacman-output/pacman-contribution-graph.svg">
+</picture>
+>>>>>>> e4cd742895b8125c79e6fab0ca778c69851baca9
 
 ###

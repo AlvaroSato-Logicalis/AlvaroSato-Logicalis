@@ -57,13 +57,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AlvaroSato-Logicalis&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/AlvaroSato-Logicalis/AlvaroSato-Logicalis/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
-</div>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlvaroSato-Logicalis/AlvaroSato-Logicalis/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlvaroSato-Logicalis/AlvaroSato-Logicalis/pacman-output/pacman-contribution-graph.svg">

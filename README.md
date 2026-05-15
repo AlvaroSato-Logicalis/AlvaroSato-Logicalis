@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hello, my name is Álvaro Masanori Sato and I have a degree in Computer Science at UNESP - Presidente Prudente (2023). Currently working at the company Logicalis in the company's tools and monitoring area and also studying FrontEnd.<br><br>✨ Creating bugs since 2018<br>📚 I'm currently learning FrontEnd<br>🎯 Goals: Get a FrontEnd Job and start to put in practice all i the things that a i've learned and of course always be learning more<br>🎲 Fun fact: I try to do everything as simply as possible<br>🎮 Hobby: Play Games (FPS, ARPG), Dance</p>
+<p align="left">Hello, my name is Álvaro Masanori Sato and I have a degree in Computer Science at UNESP - Presidente Prudente (2023). Currently working at the company Logicalis in the company's tools area.<br>✨ Creating bugs since 2018<br>🎲 Fun fact: I try to do everything as simply as possible<br>🎮 Hobby: Play Games (FPS, ARPG), Dance</p>
 
 ###
 
